@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost/runningplanned_dev
+    username: postgres
+    password: postgres
+    generate-ddl: true
