@@ -1,5 +1,6 @@
 == Introduction
-Cette application est une application de test pour mettre en oeuvre differents composants d'architecture:[]
+Cette application est une application de test pour mettre en oeuvre differents composants d'architecture:
+[]
 * IHM javascript
 * Couche business en JEE - Spring
 * Acces SGBD via Spring Data JPA
